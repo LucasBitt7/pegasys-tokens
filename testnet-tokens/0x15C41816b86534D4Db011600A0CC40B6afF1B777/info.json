@@ -1,0 +1,25 @@
+{
+  "name": "USDT",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "website": "http://pudim.com.br/",
+  "description": "USDT testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0x15C41816b86534D4Db011600A0CC40B6afF1B777",
+  "status": "active",
+  "id": "0x4413C1982ea01C081fbCDd8943bc48601B1d3e57",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "USDC",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 6,
+  "website": "http://pudim.com.br/",
+  "description": "USDC testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0x4413C1982ea01C081fbCDd8943bc48601B1d3e57",
+  "status": "active",
+  "id": "0x4413C1982ea01C081fbCDd8943bc48601B1d3e57",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}
