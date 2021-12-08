@@ -9,4 +9,3 @@ const dirs = readdirSync(TOKENS).filter(name => name !== getAddress(name));
 for (const name of dirs) {
 	renameSync(join(TOKENS, name), join(TOKENS, getAddress(name)));
 }
-const getToken = join(TOKENS,	)
