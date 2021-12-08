@@ -1,0 +1,25 @@
+{
+  "name": "Wrapped Ethereum",
+  "type": "ERC20",
+  "symbol": "WETH",
+  "decimals": 6,
+  "website": "http://pudim.com.br/",
+  "description": "WETH testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0xcc9817d247eF742B9C22d8C4d7d44294BCbB65D8",
+  "status": "active",
+  "id": "0xcc9817d247eF742B9C22d8C4d7d44294BCbB65D8",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}

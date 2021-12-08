@@ -1,0 +1,25 @@
+{
+  "name": "Wrapped Bitcoin",
+  "type": "ERC20",
+  "symbol": "WBTC",
+  "decimals": 6,
+  "website": "http://pudim.com.br/",
+  "description": "WBTC testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0xF2E3dA0701afb0127239604d331530fdc51030Ec",
+  "status": "active",
+  "id": "0xF2E3dA0701afb0127239604d331530fdc51030Ec",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}

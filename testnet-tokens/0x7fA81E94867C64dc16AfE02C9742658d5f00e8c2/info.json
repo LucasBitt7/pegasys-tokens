@@ -1,0 +1,25 @@
+{
+  "name": "DAI",
+  "type": "ERC20",
+  "symbol": "DAI",
+  "decimals": 6,
+  "website": "http://po.com.br/",
+  "description": "DAI testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0x7fA81E94867C64dc16AfE02C9742658d5f00e8c2",
+  "status": "active",
+  "id": "0x7fA81E94867C64dc16AfE02C9742658d5f00e8c2",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}

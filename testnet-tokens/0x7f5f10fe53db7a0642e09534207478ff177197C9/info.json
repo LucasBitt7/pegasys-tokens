@@ -1,0 +1,25 @@
+{
+  "name": "Wrapped Matic",
+  "type": "ERC20",
+  "symbol": "WMATIC",
+  "decimals": 6,
+  "website": "http://po.com.br/",
+  "description": "WMATIC testnet token with absolutely no utility.",
+  "explorer": "https://tanenbaum.io/address/0x7f5f10fe53db7a0642e09534207478ff177197C9",
+  "status": "active",
+  "id": "0x7f5f10fe53db7a0642e09534207478ff177197C9",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/"
+      },
+      {
+          "name": "coingecko",
+          "url": "https://coingecko.com//"
+      }
+  ]
+}
